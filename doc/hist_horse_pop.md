@@ -57,4 +57,14 @@ between 1940 - 1972
 
 Below we zoom in and look at the province of Alberta:
 
-![](hist_horse_pop_files/figure-gfm/plot%20province-1.png)<!-- -->
+<div class="figure">
+
+<img src="hist_horse_pop_files/figure-gfm/plot province-1.png" alt="Figure 1. Historical number of horses in Alberta between 1940 and 1972" width="60%" />
+
+<p class="caption">
+
+Figure 1. Historical number of horses in Alberta between 1940 and 1972
+
+</p>
+
+</div>
